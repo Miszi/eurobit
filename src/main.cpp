@@ -2134,13 +2134,13 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1365048244;
+        block.nTime    = 1392814800;
         block.nBits    = 0x1e0ffff0;
         block.nNonce   = 134453;
 
         if (fTestNet)
         {
-            block.nTime    = 0;             //test net not supported
+            block.nTime    = 1392814800;             //test net not supported
             block.nNonce   = 0;
         }
 
