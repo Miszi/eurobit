@@ -295,10 +295,10 @@ void ThreadIRCSeed2(void* parg)
         }
         
         if (fTestNet) {
-            Send(hSocket, "JOIN #usdeTEST3\r");
-            Send(hSocket, "WHO #usdeTEST3\r");
+            Send(hSocket, "JOIN #ebiTEST3\r");
+            Send(hSocket, "WHO #ebiTEST3\r");
         } else {
-            // randomly join #usde00-#usde99
+            // randomly join #ebi00-#ebi99
             int channel_number = GetRandInt(100);
             channel_number = 0; // eurobit: for now, just use one channel
             Send(hSocket, strprintf("JOIN #eurobit%02d\r", channel_number).c_str());

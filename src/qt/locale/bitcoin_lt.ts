@@ -2389,7 +2389,7 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Užkraunami blokų indeksai...</translation>
     </message>
     <message>

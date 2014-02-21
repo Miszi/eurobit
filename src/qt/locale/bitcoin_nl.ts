@@ -2416,7 +2416,7 @@ SSL-opties: (zie de Bitcoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Blokindex aan het laden...</translation>
     </message>
     <message>

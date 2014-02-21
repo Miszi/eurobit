@@ -2390,7 +2390,7 @@ Možnosti SSL: (viz instrukce nastavení SSL v Bitcoin Wiki)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Načítám index bloků...</translation>
     </message>
     <message>

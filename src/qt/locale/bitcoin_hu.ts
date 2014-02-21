@@ -2413,7 +2413,7 @@ SSL-opciók: (lásd a Bitcoin Wiki SSL-beállítási instrukcióit)
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Blokkindex betöltése...</translation>
     </message>
     <message>

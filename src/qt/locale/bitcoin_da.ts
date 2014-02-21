@@ -2411,7 +2411,7 @@ SSL-indstillinger: (se Bitcoin Wiki for SSL opsætningsinstruktioner)</translati
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Indlæser blok-indeks...</translation>
     </message>
     <message>

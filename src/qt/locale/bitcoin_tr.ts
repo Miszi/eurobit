@@ -2390,7 +2390,7 @@ SSL seçenekleri: (SSL kurulum bilgisi için Bitcoin vikisine bakınız)</transl
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Blok indeksi yükleniyor...</translation>
     </message>
     <message>

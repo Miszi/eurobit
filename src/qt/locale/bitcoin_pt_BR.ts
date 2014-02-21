@@ -2416,8 +2416,8 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
-        <translation>Loading USDE...</translation>
+        <source>Loading EuroBit...</source>
+        <translation>Loading EuroBit...</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="65"/>

@@ -2002,7 +2002,7 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

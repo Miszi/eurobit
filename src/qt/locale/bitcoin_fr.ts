@@ -2390,7 +2390,7 @@ Options SSL : (cf. le wiki Bitcoin pour les réglages SSL)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="131"/>
-        <source>Loading USDE...</source>
+        <source>Loading EuroBit...</source>
         <translation>Chargement de l&apos;index des blocs...</translation>
     </message>
     <message>
