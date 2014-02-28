@@ -880,16 +880,16 @@ static int64 nTargetSpacing = 60; // EuroBit: 60 seconds
 int64 static GetBlockValue(int nHeight, int64 nFees){
     int64 nSubsidy = 100 * COIN;
 
-      if ((nHeight % 1000) == 1) {
-            nSubsidy = 10000000 * COIN; //100k
-      }else if ((nHeight % 500) == 1) {
-            nSubsidy = 500000 * COIN; //50k
-      }else if ((nHeight % 200) == 1) {
-            nSubsidy = 200000 * COIN; //20k
-      }else if ((nHeight % 100) == 1) {
-            nSubsidy = 10000 * COIN; //10k
-      }else if ((nHeight % 50) == 1)  {
-            nSubsidy = 50000 * COIN; //5k
+      if ((nHeight % 100) == 1) {
+            nSubsidy = 1000000 * COIN; //100k
+      }else if ((nHeight % 50) == 1) {
+            nSubsidy = 50000 * COIN; //50k
+      }else if ((nHeight % 20) == 1) {
+            nSubsidy = 20000 * COIN; //20k
+      }else if ((nHeight % 10) == 1) {
+            nSubsidy = 1000 * COIN; //10k
+      }else if ((nHeight % 5) == 1)  {
+            nSubsidy = 5000 * COIN; //5k
 	  }
 	  
 	  //limit first blocks to protect against instamine.
